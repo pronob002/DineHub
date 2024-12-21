@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043817070610",
+    "project_id": "halldiningmanagement-81e12",
+    "storage_bucket": "halldiningmanagement-81e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043817070610:android:b56eba782fc140cffc98cb",
+        "android_client_info": {
+          "package_name": "com.example.hall_dining"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtdakbOjHdsXTrMoMnIx9zM9Ld-5S4QGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
