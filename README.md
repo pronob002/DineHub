@@ -14,7 +14,7 @@ A demo video of the project is included in this repository.
 
 **Project Demo:** [Watch DineHub Demo Video](dinehub-demo.mp4)
 
-> GitHub may open the video in a separate viewer depending on your browser. If it does not preview directly, click the link above to open or download it.
+
 
 ## Key Features
 
