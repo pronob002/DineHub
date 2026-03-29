@@ -12,7 +12,7 @@ This project demonstrates practical experience in mobile application development
 
 A demo video of the project is included in this repository.
 
-**Project Demo:** [Watch DineHub Demo Video](dinehub-demo.mp4)
+**Project Demo:** [Watch DineHub Demo Video](Dinehub-demo.mp4)
 
 
 
