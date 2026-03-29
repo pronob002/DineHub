@@ -12,9 +12,10 @@ This project demonstrates practical experience in mobile application development
 
 A demo video of the project is included in this repository.
 
-**Project Demo:** [Watch DineHub Demo Video](Dinehub-demo.mp4)
+- [View Demo Video on GitHub](https://github.com/pronob002/DineHub/blob/main/Dinehub-demo.mp4)
+- [Open / Download Demo Video](https://raw.githubusercontent.com/pronob002/DineHub/main/Dinehub-demo.mp4)
 
-
+> Note: GitHub may not preview larger video files directly inside the browser. If the preview does not load, use the download link above to access the demo.
 
 ## Key Features
 
@@ -43,7 +44,7 @@ A demo video of the project is included in this repository.
 ```text
 .
 ├── hall_dining/
-├── dinehub-demo.mp4
+├── Dinehub-demo.mp4
 └── README.md
 Problem Statement
 Traditional university dining systems often rely on physical tokens or manually tracked processes, which can be inefficient and inconvenient for students. DineHub was developed as a digital alternative to improve operational simplicity and create a better user experience through a mobile application.
