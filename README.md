@@ -10,12 +10,11 @@ This project demonstrates practical experience in mobile application development
 
 ## Demo Video
 
-A demo video of the project is included in this repository.
+A demo video of the project is available on YouTube:
 
-- [View Demo Video on GitHub](https://github.com/pronob002/DineHub/blob/main/Dinehub-demo.mp4)
-- [Open / Download Demo Video](https://raw.githubusercontent.com/pronob002/DineHub/main/Dinehub-demo.mp4)
+**Project Demo:** [Watch DineHub Demo Video on YouTube](https://youtu.be/RoyM2cd8Q2w)
 
-> Note: GitHub may not preview larger video files directly inside the browser. If the preview does not load, use the download link above to access the demo.
+> The demo video provides a quick walkthrough of the application's interface and core functionality.
 
 ## Key Features
 
