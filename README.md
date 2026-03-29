@@ -12,7 +12,7 @@ This project demonstrates practical experience in mobile application development
 
 A demo video of the project is available on YouTube:
 
-**Project Demo:** [Watch DineHub Demo Video on YouTube](https://youtu.be/RoyM2cd8Q2w)
+**Project Demo:** [Watch DineHub Demo Video on YouTube]([https://youtu.be/RoyM2cd8Q2w](https://youtu.be/8mtSOCX110w))
 
 > The demo video provides a quick walkthrough of the application's interface and core functionality.
 
